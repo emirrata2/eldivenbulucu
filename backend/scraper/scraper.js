@@ -121,7 +121,10 @@ async function scrapeProduct(url, subcategory) {
 
   const description = $(
     ".woocommerce-product-details__short-description, #tab-description, .product-description"
-  ).first().text().trim().slice(0, 600);
+  ).first().text().trim().slice(0, 1500);
+
+  // Tüm sayfadan EN 374 sertifika kodlarını çek
+  const fullPageText = $("body").text();
 
   const imgEl = $(".woocommerce-product-gallery__image img").first();
   const rawSrc = imgEl.attr("src") || "";
@@ -137,7 +140,12 @@ async function scrapeProduct(url, subcategory) {
 
   const fullText = `${name} ${description} ${subcategory}`;
   const features = detectFeatures(fullText);
-  const chemical_codes = detectChemicals(fullText);
+
+  // EN374 Tip X (ABCDEF) formatından direkt kod çek
+  const en374Match = fullPageText.match(/374[^(]{0,60}\(([A-T]{2,})\)/i);
+  const chemical_codes = en374Match
+    ? [...en374Match[1]].sort()
+    : detectChemicals(fullText);
 
   // Kategori bazlı zorla özellik atama
   if (subcategory === "Kesilme Dirençli") features.is_cut_resistant = true;
