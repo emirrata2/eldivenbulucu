@@ -6,7 +6,7 @@ const db = require("../db/database");
 router.get("/", (req, res) => {
   const {
     search,
-    cut, chemical, puncture, cold, heat, antistatic, waterproof, food,
+    cut, chemical, chemicals, puncture, cold, heat, antistatic, waterproof, food,
     brand, subcategory,
     page = "1",
     limit = "20",
@@ -32,6 +32,10 @@ router.get("/", (req, res) => {
   if (food === "1")       gloves = gloves.filter((g) => g.is_food_safe);
   if (brand)              gloves = gloves.filter((g) => g.brand?.toLowerCase().includes(brand.toLowerCase()));
   if (subcategory)        gloves = gloves.filter((g) => g.subcategory === subcategory);
+  if (chemicals) {
+    const codes = chemicals.split(",");
+    gloves = gloves.filter((g) => g.chemical_codes && codes.some((c) => g.chemical_codes.includes(c)));
+  }
 
   const total = gloves.length;
   const pageNum = parseInt(page);

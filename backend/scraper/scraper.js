@@ -19,6 +19,36 @@ const CATEGORIES = [
   { name: "Prokotek", url: "/urun-kategori/el-koruyucular-is-eldivenleri/prokotek/" },
 ];
 
+const CHEMICAL_MAP = {
+  A: ["metanol", "methanol"],
+  B: ["aseton", "acetone"],
+  C: ["asetonitril", "acetonitrile"],
+  D: ["diklorometan", "dichloromethane", "metilen klorür"],
+  E: ["karbon disülfür", "carbon disulfide"],
+  F: ["toluen", "toluene"],
+  G: ["dietilamin", "diethylamine"],
+  H: ["tetrahidrofuran", "thf", "tetrahydrofuran"],
+  I: ["etil asetat", "ethyl acetate"],
+  J: ["heptan", "n-heptan"],
+  K: ["sodyum hidroksit", "naoh", "kostik", "caustic", "baz", "alkali"],
+  L: ["sülfürik asit", "sulfuric acid", "h2so4"],
+  M: ["nitrik asit", "nitric acid", "hno3"],
+  N: ["asetik asit", "acetic acid", "sirke asidi"],
+  O: ["amonyak", "ammonia", "nh3"],
+  P: ["hidrojen peroksit", "hydrogen peroxide", "h2o2"],
+  S: ["hidroflorik asit", "hydrofluoric acid", "hf"],
+  T: ["formaldehit", "formaldehyde", "formalin"],
+};
+
+function detectChemicals(text) {
+  const lower = text.toLowerCase();
+  const codes = [];
+  for (const [code, keywords] of Object.entries(CHEMICAL_MAP)) {
+    if (keywords.some((kw) => lower.includes(kw))) codes.push(code);
+  }
+  return codes;
+}
+
 const FEATURE_KEYWORDS = {
   is_cut_resistant:      ["kesil", "kesilme", "cut resistant", "dilim"],
   is_chemical_resistant: ["kimyasal", "chemical", "asit", "baz", "solvent"],
@@ -107,6 +137,7 @@ async function scrapeProduct(url, subcategory) {
 
   const fullText = `${name} ${description} ${subcategory}`;
   const features = detectFeatures(fullText);
+  const chemical_codes = detectChemicals(fullText);
 
   // Kategori bazlı zorla özellik atama
   if (subcategory === "Kesilme Dirençli") features.is_cut_resistant = true;
@@ -125,6 +156,7 @@ async function scrapeProduct(url, subcategory) {
     product_url: url,
     description,
     en_standard,
+    chemical_codes,
     ...features,
   };
 }

@@ -18,7 +18,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 1,
-      "scraped_at": "2026-05-01T13:14:31.048Z"
+      "scraped_at": "2026-05-01T13:14:31.048Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "BEYBİ CN300",
@@ -38,7 +43,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 2,
-      "scraped_at": "2026-05-01T13:14:32.106Z"
+      "scraped_at": "2026-05-01T13:14:32.106Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ CU300",
@@ -58,7 +72,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 3,
-      "scraped_at": "2026-05-01T13:14:33.209Z"
+      "scraped_at": "2026-05-01T13:14:33.209Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Armor™ 6-101-B11",
@@ -78,7 +93,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 4,
-      "scraped_at": "2026-05-01T13:20:55.027Z"
+      "scraped_at": "2026-05-01T13:20:55.027Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Armor™ AS 2-007-B11",
@@ -98,7 +122,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 5,
-      "scraped_at": "2026-05-01T13:20:55.389Z"
+      "scraped_at": "2026-05-01T13:20:55.389Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Armor™ AS 2-056-G11",
@@ -118,7 +151,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 6,
-      "scraped_at": "2026-05-01T13:20:55.740Z"
+      "scraped_at": "2026-05-01T13:20:55.740Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Armor™ AS 2-056-Q11",
@@ -138,7 +180,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 7,
-      "scraped_at": "2026-05-01T13:20:56.098Z"
+      "scraped_at": "2026-05-01T13:20:56.098Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Armor™ AS 3-017-B11",
@@ -158,7 +201,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 8,
-      "scraped_at": "2026-05-01T13:20:56.453Z"
+      "scraped_at": "2026-05-01T13:20:56.453Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Armor™ AS 3-036-Q11",
@@ -178,7 +230,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 9,
-      "scraped_at": "2026-05-01T13:20:56.803Z"
+      "scraped_at": "2026-05-01T13:20:56.803Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Armor™ AS 3-037-G11",
@@ -198,7 +251,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 10,
-      "scraped_at": "2026-05-01T13:20:57.145Z"
+      "scraped_at": "2026-05-01T13:20:57.145Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Armor™ AS 3-185-Q11",
@@ -218,7 +280,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 11,
-      "scraped_at": "2026-05-01T13:20:57.489Z"
+      "scraped_at": "2026-05-01T13:20:57.489Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Armor™ AS 4-032-B11",
@@ -238,7 +301,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 12,
-      "scraped_at": "2026-05-01T13:20:57.837Z"
+      "scraped_at": "2026-05-01T13:20:57.837Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Armor™ AS 5-031-Q11",
@@ -258,7 +330,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 13,
-      "scraped_at": "2026-05-01T13:20:58.192Z"
+      "scraped_at": "2026-05-01T13:20:58.192Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Armor™ AS 6-188-Q11",
@@ -278,7 +351,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 14,
-      "scraped_at": "2026-05-01T13:20:58.544Z"
+      "scraped_at": "2026-05-01T13:20:58.544Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Classic™ 001-A11",
@@ -298,7 +372,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 15,
-      "scraped_at": "2026-05-01T13:20:59.245Z"
+      "scraped_at": "2026-05-01T13:20:59.245Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Fizz™ AS 042-D76",
@@ -318,7 +401,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 16,
-      "scraped_at": "2026-05-01T13:21:03.617Z"
+      "scraped_at": "2026-05-01T13:21:03.617Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Pure™ AS 5-091-C00",
@@ -338,7 +430,8 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 17,
-      "scraped_at": "2026-05-01T13:21:10.099Z"
+      "scraped_at": "2026-05-01T13:21:10.099Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Shield™ AS 5-031-Q11P",
@@ -358,7 +451,15 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 18,
-      "scraped_at": "2026-05-01T13:21:10.513Z"
+      "scraped_at": "2026-05-01T13:21:10.513Z",
+      "chemical_codes": [
+        "A",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NeoArmor™ AS 2-056-Q11",
@@ -378,7 +479,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 19,
-      "scraped_at": "2026-05-01T13:21:10.917Z"
+      "scraped_at": "2026-05-01T13:21:10.917Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Prisma Armor™ AS 2-180-Q11",
@@ -398,7 +500,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 20,
-      "scraped_at": "2026-05-01T13:21:13.532Z"
+      "scraped_at": "2026-05-01T13:21:13.532Z",
+      "chemical_codes": []
     },
     {
       "name": "PROKOTEK PRT-300",
@@ -418,7 +521,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 21,
-      "scraped_at": "2026-05-01T13:21:21.246Z"
+      "scraped_at": "2026-05-01T13:21:21.246Z",
+      "chemical_codes": []
     },
     {
       "name": "PROKOTEK PRT-400",
@@ -438,7 +542,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 22,
-      "scraped_at": "2026-05-01T13:21:21.598Z"
+      "scraped_at": "2026-05-01T13:21:21.598Z",
+      "chemical_codes": []
     },
     {
       "name": "PROKOTEK PRT-5 KESİK KORUMA PETROLCÜ ELDİVENİ",
@@ -458,7 +563,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 23,
-      "scraped_at": "2026-05-01T13:21:21.945Z"
+      "scraped_at": "2026-05-01T13:21:21.945Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "PROKOTEK PRT-500",
@@ -478,7 +592,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 24,
-      "scraped_at": "2026-05-01T13:21:22.295Z"
+      "scraped_at": "2026-05-01T13:21:22.295Z",
+      "chemical_codes": []
     },
     {
       "name": "PROKOTEK PRT-534",
@@ -498,7 +613,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 25,
-      "scraped_at": "2026-05-01T13:21:22.647Z"
+      "scraped_at": "2026-05-01T13:21:22.647Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-115100",
@@ -518,7 +634,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 26,
-      "scraped_at": "2026-05-01T13:18:01.271Z"
+      "scraped_at": "2026-05-01T13:18:01.271Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-125620",
@@ -538,7 +663,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 27,
-      "scraped_at": "2026-05-01T13:18:01.621Z"
+      "scraped_at": "2026-05-01T13:18:01.621Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-135620 KESİLME DİRENÇLİ ELDİVEN",
@@ -558,7 +684,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 28,
-      "scraped_at": "2026-05-01T13:18:01.960Z"
+      "scraped_at": "2026-05-01T13:18:01.960Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-135625 KESİLME DİRENÇLİ ELDİVEN",
@@ -578,7 +705,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 29,
-      "scraped_at": "2026-05-01T13:18:02.303Z"
+      "scraped_at": "2026-05-01T13:18:02.303Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-145505",
@@ -598,7 +726,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 30,
-      "scraped_at": "2026-05-01T13:18:59.642Z"
+      "scraped_at": "2026-05-01T13:18:59.642Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-53",
@@ -618,7 +747,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 31,
-      "scraped_at": "2026-05-01T13:19:04.931Z"
+      "scraped_at": "2026-05-01T13:19:04.931Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-55 KESİLME DİRENÇLİ ELDİVEN",
@@ -638,7 +768,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 32,
-      "scraped_at": "2026-05-01T13:19:05.272Z"
+      "scraped_at": "2026-05-01T13:19:05.272Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-60 KÖPÜK NİTRİL ELDİVEN",
@@ -658,7 +789,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 33,
-      "scraped_at": "2026-05-01T13:18:10.698Z"
+      "scraped_at": "2026-05-01T13:18:10.698Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-62",
@@ -678,7 +818,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 34,
-      "scraped_at": "2026-05-01T13:19:05.613Z"
+      "scraped_at": "2026-05-01T13:19:05.613Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-63",
@@ -698,7 +839,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 35,
-      "scraped_at": "2026-05-01T13:19:05.952Z"
+      "scraped_at": "2026-05-01T13:19:05.952Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-636700 GIDA KESİLME DİRENÇLİ ELDİVEN",
@@ -718,7 +860,8 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 36,
-      "scraped_at": "2026-05-01T13:20:12.511Z"
+      "scraped_at": "2026-05-01T13:20:12.511Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-636800",
@@ -738,7 +881,8 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 37,
-      "scraped_at": "2026-05-01T13:20:12.855Z"
+      "scraped_at": "2026-05-01T13:20:12.855Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-65",
@@ -758,7 +902,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 38,
-      "scraped_at": "2026-05-01T13:18:11.046Z"
+      "scraped_at": "2026-05-01T13:18:11.046Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1008 SFT NİTRİL ELDİVEN",
@@ -778,7 +931,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 39,
-      "scraped_at": "2026-05-01T13:18:22.692Z"
+      "scraped_at": "2026-05-01T13:18:22.692Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1009 SFT NİTRİL ELDİVEN",
@@ -798,7 +952,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 40,
-      "scraped_at": "2026-05-01T13:18:23.037Z"
+      "scraped_at": "2026-05-01T13:18:23.037Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1010 KESİLMEYE DİRENÇLİ ELDİVEN",
@@ -818,7 +973,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 41,
-      "scraped_at": "2026-05-01T13:18:23.394Z"
+      "scraped_at": "2026-05-01T13:18:23.394Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1011 PU ELDİVEN",
@@ -838,7 +994,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 42,
-      "scraped_at": "2026-05-01T13:19:06.291Z"
+      "scraped_at": "2026-05-01T13:19:06.291Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1015",
@@ -858,7 +1023,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 43,
-      "scraped_at": "2026-05-01T13:19:06.645Z"
+      "scraped_at": "2026-05-01T13:19:06.645Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1030",
@@ -878,7 +1044,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 44,
-      "scraped_at": "2026-05-01T13:18:31.289Z"
+      "scraped_at": "2026-05-01T13:18:31.289Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1040",
@@ -898,7 +1073,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 45,
-      "scraped_at": "2026-05-01T13:18:31.628Z"
+      "scraped_at": "2026-05-01T13:18:31.628Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN DuoNPFL™ 330-24SD",
@@ -918,7 +1102,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 46,
-      "scraped_at": "2026-05-01T13:20:49.888Z"
+      "scraped_at": "2026-05-01T13:20:49.888Z",
+      "chemical_codes": [
+        "E",
+        "F",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN DuraMaxCL™ 300-150ZCR",
@@ -938,7 +1131,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 47,
-      "scraped_at": "2026-05-01T13:20:50.236Z"
+      "scraped_at": "2026-05-01T13:20:50.236Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN LITE BLUE PUDRASIZ NİTRİL 2,8 GR TEK KULLANIMLIK ELDİVEN",
@@ -958,7 +1156,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 48,
-      "scraped_at": "2026-05-01T13:20:50.683Z"
+      "scraped_at": "2026-05-01T13:20:50.683Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN LITE PUDRASIZ NİTRİL 3,2 GR TEK KULLANIMLIK ELDİVEN",
@@ -978,7 +1185,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 49,
-      "scraped_at": "2026-05-01T13:20:51.043Z"
+      "scraped_at": "2026-05-01T13:20:51.043Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN NaturaFL™ 300-11BD",
@@ -998,7 +1214,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 50,
-      "scraped_at": "2026-05-01T13:20:51.493Z"
+      "scraped_at": "2026-05-01T13:20:51.493Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NaturaFL™ 300-13BF",
@@ -1018,7 +1239,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 51,
-      "scraped_at": "2026-05-01T13:20:51.849Z"
+      "scraped_at": "2026-05-01T13:20:51.849Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NaturaFL™ 300-22SF",
@@ -1038,7 +1264,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 52,
-      "scraped_at": "2026-05-01T13:20:52.203Z"
+      "scraped_at": "2026-05-01T13:20:52.203Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NaturaFL™ 330-28BF",
@@ -1058,7 +1289,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 53,
-      "scraped_at": "2026-05-01T13:20:52.553Z"
+      "scraped_at": "2026-05-01T13:20:52.553Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NaturaHD-330-32B",
@@ -1078,7 +1314,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 54,
-      "scraped_at": "2026-05-01T13:20:52.900Z"
+      "scraped_at": "2026-05-01T13:20:52.900Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NaturaSL-300-11BF GENEL TEMİZLİK VE GIDAYA UYUMLU ELDİVEN",
@@ -1098,7 +1339,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 55,
-      "scraped_at": "2026-05-01T13:20:53.953Z"
+      "scraped_at": "2026-05-01T13:20:53.953Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NaturaUL™ 300-12BF",
@@ -1118,7 +1364,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 56,
-      "scraped_at": "2026-05-01T13:20:54.320Z"
+      "scraped_at": "2026-05-01T13:20:54.320Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NBRFL™ 300-11BF",
@@ -1138,7 +1389,16 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 57,
-      "scraped_at": "2026-05-01T13:20:54.674Z"
+      "scraped_at": "2026-05-01T13:20:54.674Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Chem™ AS 1-121-X96",
@@ -1158,7 +1418,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 58,
-      "scraped_at": "2026-05-01T13:20:58.889Z"
+      "scraped_at": "2026-05-01T13:20:58.889Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN NitrilCL™ 300-11BF",
@@ -1178,7 +1447,16 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 59,
-      "scraped_at": "2026-05-01T13:21:11.343Z"
+      "scraped_at": "2026-05-01T13:21:11.343Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN NitrilUL™ 330-18SF",
@@ -1198,7 +1476,16 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 60,
-      "scraped_at": "2026-05-01T13:21:11.697Z"
+      "scraped_at": "2026-05-01T13:21:11.697Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN NitroFL™ 330-15SD",
@@ -1218,7 +1505,16 @@
       "is_waterproof": true,
       "is_food_safe": false,
       "id": 61,
-      "scraped_at": "2026-05-01T13:21:12.076Z"
+      "scraped_at": "2026-05-01T13:21:12.076Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN NitroFL™ 330-15SD (ESD)",
@@ -1238,7 +1534,16 @@
       "is_waterproof": true,
       "is_food_safe": true,
       "id": 62,
-      "scraped_at": "2026-05-01T13:21:12.442Z"
+      "scraped_at": "2026-05-01T13:21:12.442Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN NitroPF™ 240-032BFT",
@@ -1258,7 +1563,16 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 63,
-      "scraped_at": "2026-05-01T13:21:12.807Z"
+      "scraped_at": "2026-05-01T13:21:12.807Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN NitroUL-330-8SD",
@@ -1278,7 +1592,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 64,
-      "scraped_at": "2026-05-01T13:21:13.175Z"
+      "scraped_at": "2026-05-01T13:21:13.175Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN STRONG F PUDRASIZ NİTRİL 5 GR TEK KULLANIMLIK ELDİVEN",
@@ -1298,7 +1621,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 65,
-      "scraped_at": "2026-05-01T13:21:14.247Z"
+      "scraped_at": "2026-05-01T13:21:14.247Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN STRONG X ESD PUDRASIZ NİTRİL 6,3 GR TEK KULLANIMLIK ELDİVEN",
@@ -1318,7 +1650,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 66,
-      "scraped_at": "2026-05-01T13:21:14.598Z"
+      "scraped_at": "2026-05-01T13:21:14.598Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN STRONG X PUDRASIZ NİTRİL 6,3 GR TEK KULLANIMLIK ELDİVEN",
@@ -1338,7 +1679,16 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 67,
-      "scraped_at": "2026-05-01T13:21:14.940Z"
+      "scraped_at": "2026-05-01T13:21:14.940Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "NRFL002 LALAN NaturaFL™ 300-15BF Kobalt Mavi",
@@ -1358,7 +1708,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 68,
-      "scraped_at": "2026-05-01T13:21:15.279Z"
+      "scraped_at": "2026-05-01T13:21:15.279Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "2G NITRILE NKPE – ¾ KAPLI SÜPER PERFORMANS EKSTRA ELDİVEN SARI",
@@ -1378,7 +1733,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 69,
-      "scraped_at": "2026-05-01T13:15:51.170Z"
+      "scraped_at": "2026-05-01T13:15:51.170Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE NKPE – ¾ KAPLI SÜPER PERFORMANS EKSTRA ELDİVEN SİYAH",
@@ -1398,7 +1762,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 70,
-      "scraped_at": "2026-05-01T13:15:52.506Z"
+      "scraped_at": "2026-05-01T13:15:52.506Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE NKPE-F – TAM KAPLI SÜPER PERFORMANS EKSTRA ELDİVEN SARI",
@@ -1418,7 +1791,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 71,
-      "scraped_at": "2026-05-01T13:15:54.266Z"
+      "scraped_at": "2026-05-01T13:15:54.266Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE NKPE-F – TAM KAPLI SÜPER PERFORMANS EKSTRA ELDİVEN SİYAH",
@@ -1438,7 +1820,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 72,
-      "scraped_at": "2026-05-01T13:15:56.084Z"
+      "scraped_at": "2026-05-01T13:15:56.084Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S EKONOMİK ELDİVEN SARI",
@@ -1458,7 +1849,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 73,
-      "scraped_at": "2026-05-01T13:15:57.324Z"
+      "scraped_at": "2026-05-01T13:15:57.324Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S EKONOMİK ELDİVEN SİYAH",
@@ -1478,7 +1878,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 74,
-      "scraped_at": "2026-05-01T13:15:59.175Z"
+      "scraped_at": "2026-05-01T13:15:59.175Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S1 – EKOSTANDART ELDİVEN SARI",
@@ -1498,7 +1907,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 75,
-      "scraped_at": "2026-05-01T13:16:00.829Z"
+      "scraped_at": "2026-05-01T13:16:00.829Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S1 – EKOSTANDART ELDİVEN SİYAH",
@@ -1518,7 +1936,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 76,
-      "scraped_at": "2026-05-01T13:16:02.340Z"
+      "scraped_at": "2026-05-01T13:16:02.340Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S2 – PERFORMANS ELDİVEN SARI",
@@ -1538,7 +1965,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 77,
-      "scraped_at": "2026-05-01T13:16:03.701Z"
+      "scraped_at": "2026-05-01T13:16:03.701Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S2 – PERFORMANS ELDİVEN SİYAH",
@@ -1558,7 +1994,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 78,
-      "scraped_at": "2026-05-01T13:16:05.120Z"
+      "scraped_at": "2026-05-01T13:16:05.120Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S2 FULL – PERFORMANS ELDİVEN SARI",
@@ -1578,7 +2023,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 79,
-      "scraped_at": "2026-05-01T13:16:06.562Z"
+      "scraped_at": "2026-05-01T13:16:06.562Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S3 – YARIM KAPLAMALI SÜPER PERFORMANS ELDİVEN SARI",
@@ -1598,7 +2052,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 80,
-      "scraped_at": "2026-05-01T13:16:08.425Z"
+      "scraped_at": "2026-05-01T13:16:08.425Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S3 – YARIM KAPLAMALI SÜPER PERFORMANS ELDİVEN SİYAH",
@@ -1618,7 +2081,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 81,
-      "scraped_at": "2026-05-01T13:16:10.065Z"
+      "scraped_at": "2026-05-01T13:16:10.065Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S4 – TAM KAPLI SÜPER PERFORMANS ELDİVEN SARI",
@@ -1638,7 +2110,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 82,
-      "scraped_at": "2026-05-01T13:16:11.836Z"
+      "scraped_at": "2026-05-01T13:16:11.836Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S4 – TAM KAPLI SÜPER PERFORMANS ELDİVEN SİYAH",
@@ -1658,7 +2139,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 83,
-      "scraped_at": "2026-05-01T13:16:13.362Z"
+      "scraped_at": "2026-05-01T13:16:13.362Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S5 – PETROLCÜ ELDİVEN SİYAH",
@@ -1678,7 +2168,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 84,
-      "scraped_at": "2026-05-01T13:16:15.276Z"
+      "scraped_at": "2026-05-01T13:16:15.276Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "2G NITRILE S6 –SÜPER PERFORMANS PLUS ELDİVEN SARI",
@@ -1698,7 +2197,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 85,
-      "scraped_at": "2026-05-01T13:16:17.175Z"
+      "scraped_at": "2026-05-01T13:16:17.175Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ FLEX",
@@ -1718,7 +2226,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 86,
-      "scraped_at": "2026-05-01T13:16:19.152Z"
+      "scraped_at": "2026-05-01T13:16:19.152Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN FLEX+",
@@ -1738,7 +2255,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 87,
-      "scraped_at": "2026-05-01T13:16:21.088Z"
+      "scraped_at": "2026-05-01T13:16:21.088Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN1",
@@ -1758,7 +2284,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 88,
-      "scraped_at": "2026-05-01T13:16:22.850Z"
+      "scraped_at": "2026-05-01T13:16:22.850Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN2",
@@ -1778,7 +2313,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 89,
-      "scraped_at": "2026-05-01T13:16:24.385Z"
+      "scraped_at": "2026-05-01T13:16:24.385Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN25",
@@ -1798,7 +2342,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 90,
-      "scraped_at": "2026-05-01T13:16:25.940Z"
+      "scraped_at": "2026-05-01T13:16:25.940Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN25+",
@@ -1818,7 +2371,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 91,
-      "scraped_at": "2026-05-01T13:16:27.407Z"
+      "scraped_at": "2026-05-01T13:16:27.407Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN250",
@@ -1838,7 +2400,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 92,
-      "scraped_at": "2026-05-01T13:16:28.904Z"
+      "scraped_at": "2026-05-01T13:16:28.904Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN3",
@@ -1858,7 +2429,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 93,
-      "scraped_at": "2026-05-01T13:16:30.347Z"
+      "scraped_at": "2026-05-01T13:16:30.347Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN3+",
@@ -1878,7 +2458,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 94,
-      "scraped_at": "2026-05-01T13:16:32.223Z"
+      "scraped_at": "2026-05-01T13:16:32.223Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN35",
@@ -1898,7 +2487,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 95,
-      "scraped_at": "2026-05-01T13:16:33.829Z"
+      "scraped_at": "2026-05-01T13:16:33.829Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN35+",
@@ -1918,7 +2516,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 96,
-      "scraped_at": "2026-05-01T13:16:35.139Z"
+      "scraped_at": "2026-05-01T13:16:35.139Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN350",
@@ -1938,7 +2545,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 97,
-      "scraped_at": "2026-05-01T13:16:36.760Z"
+      "scraped_at": "2026-05-01T13:16:36.760Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN4",
@@ -1958,7 +2574,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 98,
-      "scraped_at": "2026-05-01T13:16:38.320Z"
+      "scraped_at": "2026-05-01T13:16:38.320Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN4+",
@@ -1978,7 +2603,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 99,
-      "scraped_at": "2026-05-01T13:16:39.803Z"
+      "scraped_at": "2026-05-01T13:16:39.803Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN6",
@@ -1998,7 +2632,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 100,
-      "scraped_at": "2026-05-01T13:16:41.202Z"
+      "scraped_at": "2026-05-01T13:16:41.202Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ KN65",
@@ -2018,7 +2661,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 101,
-      "scraped_at": "2026-05-01T13:16:42.269Z"
+      "scraped_at": "2026-05-01T13:16:42.269Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ LK100",
@@ -2038,7 +2690,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 102,
-      "scraped_at": "2026-05-01T13:16:43.435Z"
+      "scraped_at": "2026-05-01T13:16:43.435Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ PN ZEBRA",
@@ -2058,7 +2719,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 103,
-      "scraped_at": "2026-05-01T13:16:44.487Z"
+      "scraped_at": "2026-05-01T13:16:44.487Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ PN5",
@@ -2078,7 +2748,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 104,
-      "scraped_at": "2026-05-01T13:16:45.554Z"
+      "scraped_at": "2026-05-01T13:16:45.554Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ PN5 ZEBRA",
@@ -2098,7 +2777,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 105,
-      "scraped_at": "2026-05-01T13:16:46.779Z"
+      "scraped_at": "2026-05-01T13:16:46.779Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ PN7",
@@ -2118,7 +2806,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 106,
-      "scraped_at": "2026-05-01T13:16:47.882Z"
+      "scraped_at": "2026-05-01T13:16:47.882Z",
+      "chemical_codes": []
     },
     {
       "name": "BEYBİ PN72",
@@ -2138,7 +2827,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 107,
-      "scraped_at": "2026-05-01T13:16:48.954Z"
+      "scraped_at": "2026-05-01T13:16:48.954Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ PN75",
@@ -2158,7 +2856,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 108,
-      "scraped_at": "2026-05-01T13:16:50.009Z"
+      "scraped_at": "2026-05-01T13:16:50.009Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "BEYBİ PN810",
@@ -2178,7 +2885,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 109,
-      "scraped_at": "2026-05-01T13:16:51.069Z"
+      "scraped_at": "2026-05-01T13:16:51.069Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Classic™ 044-F38",
@@ -2198,7 +2914,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 110,
-      "scraped_at": "2026-05-01T13:21:00.482Z"
+      "scraped_at": "2026-05-01T13:21:00.482Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Classic™ 066-D11",
@@ -2218,7 +2943,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 111,
-      "scraped_at": "2026-05-01T13:21:00.829Z"
+      "scraped_at": "2026-05-01T13:21:00.829Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Classic™ AS 001-A11",
@@ -2238,7 +2972,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 112,
-      "scraped_at": "2026-05-01T13:21:01.174Z"
+      "scraped_at": "2026-05-01T13:21:01.174Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Classic™ AS 031-A11",
@@ -2258,7 +3001,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 113,
-      "scraped_at": "2026-05-01T13:21:01.863Z"
+      "scraped_at": "2026-05-01T13:21:01.863Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Classic™ AS 044-F38",
@@ -2278,7 +3030,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 114,
-      "scraped_at": "2026-05-01T13:21:02.557Z"
+      "scraped_at": "2026-05-01T13:21:02.557Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Classic™ AS 066-D11",
@@ -2298,7 +3059,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 115,
-      "scraped_at": "2026-05-01T13:21:02.909Z"
+      "scraped_at": "2026-05-01T13:21:02.909Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Fizz Lite 044-F38",
@@ -2318,7 +3088,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 116,
-      "scraped_at": "2026-05-01T13:21:03.256Z"
+      "scraped_at": "2026-05-01T13:21:03.256Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Frost™ AS 036-AX1",
@@ -2338,7 +3117,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 117,
-      "scraped_at": "2026-05-01T13:21:03.974Z"
+      "scraped_at": "2026-05-01T13:21:03.974Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Frost™ AS 077-F11",
@@ -2358,7 +3146,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 118,
-      "scraped_at": "2026-05-01T13:21:04.325Z"
+      "scraped_at": "2026-05-01T13:21:04.325Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN Neo Lite 001-D11",
@@ -2378,7 +3175,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 119,
-      "scraped_at": "2026-05-01T13:21:04.684Z"
+      "scraped_at": "2026-05-01T13:21:04.684Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "PROKOTEK PRT-101 POLYESTER NİTRİL İŞ ELDİVENİ",
@@ -2398,7 +3204,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 120,
-      "scraped_at": "2026-05-01T13:21:19.063Z"
+      "scraped_at": "2026-05-01T13:21:19.063Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "PROKOTEK PRT-102 POLYESTER NİTRİL İŞ ELDİVENİ",
@@ -2418,7 +3233,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 121,
-      "scraped_at": "2026-05-01T13:21:19.404Z"
+      "scraped_at": "2026-05-01T13:21:19.404Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "PROKOTEK PRT-103 POLYESTER NİTRİL İŞ ELDİVENİ",
@@ -2438,7 +3262,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 122,
-      "scraped_at": "2026-05-01T13:21:19.750Z"
+      "scraped_at": "2026-05-01T13:21:19.750Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-161300 Nitril Eldiven",
@@ -2458,7 +3291,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 123,
-      "scraped_at": "2026-05-01T13:17:14.373Z"
+      "scraped_at": "2026-05-01T13:17:14.373Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-161301 Nitril Eldiven",
@@ -2478,7 +3320,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 124,
-      "scraped_at": "2026-05-01T13:17:15.488Z"
+      "scraped_at": "2026-05-01T13:17:15.488Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-161302 Nitril Eldiven",
@@ -2498,7 +3349,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 125,
-      "scraped_at": "2026-05-01T13:17:16.589Z"
+      "scraped_at": "2026-05-01T13:17:16.589Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-203",
@@ -2518,7 +3378,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 126,
-      "scraped_at": "2026-05-01T13:17:17.857Z"
+      "scraped_at": "2026-05-01T13:17:17.857Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-204",
@@ -2538,7 +3407,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 127,
-      "scraped_at": "2026-05-01T13:17:18.887Z"
+      "scraped_at": "2026-05-01T13:17:18.887Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-205-B",
@@ -2558,7 +3436,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 128,
-      "scraped_at": "2026-05-01T13:17:19.948Z"
+      "scraped_at": "2026-05-01T13:17:19.948Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-205-Y",
@@ -2578,7 +3465,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 129,
-      "scraped_at": "2026-05-01T13:17:21.011Z"
+      "scraped_at": "2026-05-01T13:17:21.011Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-206-B",
@@ -2598,7 +3494,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 130,
-      "scraped_at": "2026-05-01T13:17:22.071Z"
+      "scraped_at": "2026-05-01T13:17:22.071Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-206-Y",
@@ -2618,7 +3523,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 131,
-      "scraped_at": "2026-05-01T13:17:23.136Z"
+      "scraped_at": "2026-05-01T13:17:23.136Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-370",
@@ -2638,7 +3552,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 132,
-      "scraped_at": "2026-05-01T13:17:24.218Z"
+      "scraped_at": "2026-05-01T13:17:24.218Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-371",
@@ -2658,7 +3573,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 133,
-      "scraped_at": "2026-05-01T13:17:25.427Z"
+      "scraped_at": "2026-05-01T13:17:25.427Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-372",
@@ -2678,7 +3594,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 134,
-      "scraped_at": "2026-05-01T13:17:26.805Z"
+      "scraped_at": "2026-05-01T13:17:26.805Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-380",
@@ -2698,7 +3615,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 135,
-      "scraped_at": "2026-05-01T13:17:27.872Z"
+      "scraped_at": "2026-05-01T13:17:27.872Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-381",
@@ -2718,7 +3636,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 136,
-      "scraped_at": "2026-05-01T13:17:28.925Z"
+      "scraped_at": "2026-05-01T13:17:28.925Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-43-BG",
@@ -2738,7 +3657,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 137,
-      "scraped_at": "2026-05-01T13:17:30.301Z"
+      "scraped_at": "2026-05-01T13:17:30.301Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-43-BS",
@@ -2758,7 +3678,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 138,
-      "scraped_at": "2026-05-01T13:17:31.626Z"
+      "scraped_at": "2026-05-01T13:17:31.626Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-43-KS",
@@ -2778,7 +3699,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 139,
-      "scraped_at": "2026-05-01T13:17:33.042Z"
+      "scraped_at": "2026-05-01T13:17:33.042Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-44 KS",
@@ -2798,7 +3720,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 140,
-      "scraped_at": "2026-05-01T13:17:34.617Z"
+      "scraped_at": "2026-05-01T13:17:34.617Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-46-KS",
@@ -2818,7 +3749,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 141,
-      "scraped_at": "2026-05-01T13:17:36.355Z"
+      "scraped_at": "2026-05-01T13:17:36.355Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-46-MS",
@@ -2838,7 +3778,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 142,
-      "scraped_at": "2026-05-01T13:17:38.401Z"
+      "scraped_at": "2026-05-01T13:17:38.401Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-LFKB",
@@ -2858,7 +3807,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 143,
-      "scraped_at": "2026-05-01T13:17:40.440Z"
+      "scraped_at": "2026-05-01T13:17:40.440Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-LFKY",
@@ -2878,7 +3836,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 144,
-      "scraped_at": "2026-05-01T13:17:41.988Z"
+      "scraped_at": "2026-05-01T13:17:41.988Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL/LPKB",
@@ -2898,7 +3865,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 145,
-      "scraped_at": "2026-05-01T13:17:43.601Z"
+      "scraped_at": "2026-05-01T13:17:43.601Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL/LPKY",
@@ -2918,7 +3894,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 146,
-      "scraped_at": "2026-05-01T13:17:45.087Z"
+      "scraped_at": "2026-05-01T13:17:45.087Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "LALAN NEO CLASSIC™ 031-A11",
@@ -2938,7 +3923,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 147,
-      "scraped_at": "2026-05-01T13:21:00.110Z"
+      "scraped_at": "2026-05-01T13:21:00.110Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "PROKOTEK PRT-601",
@@ -2958,7 +3952,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 148,
-      "scraped_at": "2026-05-01T13:21:22.994Z"
+      "scraped_at": "2026-05-01T13:21:22.994Z",
+      "chemical_codes": []
     },
     {
       "name": "PROKOTEK PRT-604",
@@ -2978,7 +3973,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 149,
-      "scraped_at": "2026-05-01T13:21:23.349Z"
+      "scraped_at": "2026-05-01T13:21:23.349Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-111801 KÖPÜK NİTRİL ELDİVEN",
@@ -2998,7 +3994,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 150,
-      "scraped_at": "2026-05-01T13:17:58.380Z"
+      "scraped_at": "2026-05-01T13:17:58.380Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-111805 Köpük Nitril",
@@ -3018,7 +4015,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 151,
-      "scraped_at": "2026-05-01T13:17:59.672Z"
+      "scraped_at": "2026-05-01T13:17:59.672Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-111865 Köpük Nitril",
@@ -3038,7 +4044,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 152,
-      "scraped_at": "2026-05-01T13:18:00.930Z"
+      "scraped_at": "2026-05-01T13:18:00.930Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-151600 KÖPÜK NİTRİL ELDİVEN",
@@ -3058,7 +4073,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 153,
-      "scraped_at": "2026-05-01T13:18:03.419Z"
+      "scraped_at": "2026-05-01T13:18:03.419Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-151615 KÖPÜK NİTRİL ELDİVEN",
@@ -3078,7 +4094,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 154,
-      "scraped_at": "2026-05-01T13:18:04.503Z"
+      "scraped_at": "2026-05-01T13:18:04.503Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-151620 Köpük Nitril",
@@ -3098,7 +4115,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 155,
-      "scraped_at": "2026-05-01T13:18:05.587Z"
+      "scraped_at": "2026-05-01T13:18:05.587Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-161400 Köpük Nitril",
@@ -3118,7 +4144,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 156,
-      "scraped_at": "2026-05-01T13:18:06.725Z"
+      "scraped_at": "2026-05-01T13:18:06.725Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-161401 Köpük Nitril",
@@ -3138,7 +4173,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 157,
-      "scraped_at": "2026-05-01T13:18:07.803Z"
+      "scraped_at": "2026-05-01T13:18:07.803Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-161402 Köpük Nitril",
@@ -3158,7 +4202,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 158,
-      "scraped_at": "2026-05-01T13:18:09.224Z"
+      "scraped_at": "2026-05-01T13:18:09.224Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-57-SS Köpük Nitril",
@@ -3178,7 +4231,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 159,
-      "scraped_at": "2026-05-01T13:18:10.357Z"
+      "scraped_at": "2026-05-01T13:18:10.357Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE E-91 KÖPÜK NİTRİL ELDİVEN",
@@ -3198,7 +4260,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 160,
-      "scraped_at": "2026-05-01T13:18:12.099Z"
+      "scraped_at": "2026-05-01T13:18:12.099Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-92 KÖPÜK NİTRİL VE DOTLU",
@@ -3218,7 +4281,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 161,
-      "scraped_at": "2026-05-01T13:18:13.282Z"
+      "scraped_at": "2026-05-01T13:18:13.282Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-93 Sandy Finish Köpük",
@@ -3238,7 +4302,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 162,
-      "scraped_at": "2026-05-01T13:18:14.388Z"
+      "scraped_at": "2026-05-01T13:18:14.388Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1001 SFT Nitril Eldiven",
@@ -3258,7 +4331,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 163,
-      "scraped_at": "2026-05-01T13:18:15.616Z"
+      "scraped_at": "2026-05-01T13:18:15.616Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1002 SFT NİTRİL ELDİVEN",
@@ -3278,7 +4360,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 164,
-      "scraped_at": "2026-05-01T13:18:15.954Z"
+      "scraped_at": "2026-05-01T13:18:15.954Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1003 SFT NİTRİL ELDİVEN",
@@ -3298,7 +4381,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 165,
-      "scraped_at": "2026-05-01T13:18:17.086Z"
+      "scraped_at": "2026-05-01T13:18:17.086Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1004 SFT NİTRİL ELDİVEN",
@@ -3318,7 +4402,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 166,
-      "scraped_at": "2026-05-01T13:18:18.177Z"
+      "scraped_at": "2026-05-01T13:18:18.177Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1005 SFT NİTRİL ELDİVEN",
@@ -3338,7 +4423,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 167,
-      "scraped_at": "2026-05-01T13:18:19.653Z"
+      "scraped_at": "2026-05-01T13:18:19.653Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1006 SFT NİTRİL ELDİVEN",
@@ -3358,7 +4444,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 168,
-      "scraped_at": "2026-05-01T13:18:21.136Z"
+      "scraped_at": "2026-05-01T13:18:21.136Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1007 SFT NİTRİL ELDİVEN",
@@ -3378,7 +4465,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 169,
-      "scraped_at": "2026-05-01T13:18:22.348Z"
+      "scraped_at": "2026-05-01T13:18:22.348Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1012 Nitril Eldiven",
@@ -3398,7 +4486,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 170,
-      "scraped_at": "2026-05-01T13:18:24.428Z"
+      "scraped_at": "2026-05-01T13:18:24.428Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1013 Köpük Nitril",
@@ -3418,7 +4515,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 171,
-      "scraped_at": "2026-05-01T13:18:25.497Z"
+      "scraped_at": "2026-05-01T13:18:25.497Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1014 Köpük Nitril",
@@ -3438,7 +4544,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 172,
-      "scraped_at": "2026-05-01T13:18:26.621Z"
+      "scraped_at": "2026-05-01T13:18:26.621Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1016 KÖPÜK NİTRİL",
@@ -3458,7 +4573,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 173,
-      "scraped_at": "2026-05-01T13:18:27.730Z"
+      "scraped_at": "2026-05-01T13:18:27.730Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE STL-1017 Köpük Nitril Eldiven",
@@ -3478,7 +4594,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 174,
-      "scraped_at": "2026-05-01T13:18:28.780Z"
+      "scraped_at": "2026-05-01T13:18:28.780Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1018 Köpük Nitril",
@@ -3498,7 +4623,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 175,
-      "scraped_at": "2026-05-01T13:18:29.877Z"
+      "scraped_at": "2026-05-01T13:18:29.877Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1020 Bambu Köpük Nitril Eldiven",
@@ -3518,7 +4652,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 176,
-      "scraped_at": "2026-05-01T13:18:30.948Z"
+      "scraped_at": "2026-05-01T13:18:30.948Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1071 Köpük Nitril",
@@ -3538,7 +4681,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 177,
-      "scraped_at": "2026-05-01T13:18:32.727Z"
+      "scraped_at": "2026-05-01T13:18:32.727Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1072 Köpük Nitril",
@@ -3558,7 +4710,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 178,
-      "scraped_at": "2026-05-01T13:18:33.785Z"
+      "scraped_at": "2026-05-01T13:18:33.785Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1073 Köpük Nitril",
@@ -3578,7 +4739,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 179,
-      "scraped_at": "2026-05-01T13:18:34.867Z"
+      "scraped_at": "2026-05-01T13:18:34.867Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1109 Darbelere Dayanıklı SFT Nitril Eldiven",
@@ -3598,7 +4768,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 180,
-      "scraped_at": "2026-05-01T13:18:35.904Z"
+      "scraped_at": "2026-05-01T13:18:35.904Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1201 Köpük Nitril",
@@ -3618,7 +4797,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 181,
-      "scraped_at": "2026-05-01T13:18:37.008Z"
+      "scraped_at": "2026-05-01T13:18:37.008Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1202 Köpük Nitril",
@@ -3638,7 +4826,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 182,
-      "scraped_at": "2026-05-01T13:18:38.056Z"
+      "scraped_at": "2026-05-01T13:18:38.056Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1203 Köpük Nitril",
@@ -3658,7 +4855,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 183,
-      "scraped_at": "2026-05-01T13:18:39.271Z"
+      "scraped_at": "2026-05-01T13:18:39.271Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1204 Köpük Nitril",
@@ -3678,7 +4884,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 184,
-      "scraped_at": "2026-05-01T13:18:40.321Z"
+      "scraped_at": "2026-05-01T13:18:40.321Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1206 Köpük Nitril",
@@ -3698,7 +4913,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 185,
-      "scraped_at": "2026-05-01T13:18:41.423Z"
+      "scraped_at": "2026-05-01T13:18:41.423Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1301 Köpük Nitril",
@@ -3718,7 +4942,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 186,
-      "scraped_at": "2026-05-01T13:18:42.451Z"
+      "scraped_at": "2026-05-01T13:18:42.451Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1302 Köpük Nitril",
@@ -3738,7 +4971,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 187,
-      "scraped_at": "2026-05-01T13:18:43.512Z"
+      "scraped_at": "2026-05-01T13:18:43.512Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1303 Köpük Nitril",
@@ -3758,7 +5000,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 188,
-      "scraped_at": "2026-05-01T13:18:44.660Z"
+      "scraped_at": "2026-05-01T13:18:44.660Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1304 Köpük Nitril",
@@ -3778,7 +5029,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 189,
-      "scraped_at": "2026-05-01T13:18:45.707Z"
+      "scraped_at": "2026-05-01T13:18:45.707Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1305 Köpük Nitril",
@@ -3798,7 +5058,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 190,
-      "scraped_at": "2026-05-01T13:18:46.833Z"
+      "scraped_at": "2026-05-01T13:18:46.833Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1306 Köpük Nitril",
@@ -3818,7 +5087,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 191,
-      "scraped_at": "2026-05-01T13:18:47.902Z"
+      "scraped_at": "2026-05-01T13:18:47.902Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1402 Köpük Nitril",
@@ -3838,7 +5116,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 192,
-      "scraped_at": "2026-05-01T13:18:48.942Z"
+      "scraped_at": "2026-05-01T13:18:48.942Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1403 Köpük Nitril",
@@ -3858,7 +5145,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 193,
-      "scraped_at": "2026-05-01T13:18:49.994Z"
+      "scraped_at": "2026-05-01T13:18:49.994Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1404 Köpük Nitril",
@@ -3878,7 +5174,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 194,
-      "scraped_at": "2026-05-01T13:18:51.067Z"
+      "scraped_at": "2026-05-01T13:18:51.067Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1405 Köpük Nitril",
@@ -3898,7 +5203,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 195,
-      "scraped_at": "2026-05-01T13:18:52.111Z"
+      "scraped_at": "2026-05-01T13:18:52.111Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1406 Köpük Nitril",
@@ -3918,7 +5232,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 196,
-      "scraped_at": "2026-05-01T13:18:53.248Z"
+      "scraped_at": "2026-05-01T13:18:53.248Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1501 Köpük Nitril",
@@ -3938,7 +5261,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 197,
-      "scraped_at": "2026-05-01T13:18:54.406Z"
+      "scraped_at": "2026-05-01T13:18:54.406Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1502 Köpük Nitril",
@@ -3958,7 +5290,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 198,
-      "scraped_at": "2026-05-01T13:18:55.584Z"
+      "scraped_at": "2026-05-01T13:18:55.584Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-1503 Köpük Nitril",
@@ -3978,7 +5319,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 199,
-      "scraped_at": "2026-05-01T13:18:56.663Z"
+      "scraped_at": "2026-05-01T13:18:56.663Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "PROKOTEK PRT-100",
@@ -3998,7 +5348,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 200,
-      "scraped_at": "2026-05-01T13:21:18.711Z"
+      "scraped_at": "2026-05-01T13:21:18.711Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-42 Antistatik PU Eldiven",
@@ -4018,7 +5369,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 201,
-      "scraped_at": "2026-05-01T13:19:00.792Z"
+      "scraped_at": "2026-05-01T13:19:00.792Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-49-BB PU ELDİVEN",
@@ -4038,7 +5390,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 202,
-      "scraped_at": "2026-05-01T13:19:01.894Z"
+      "scraped_at": "2026-05-01T13:19:01.894Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-49-SS PU Eldiven",
@@ -4058,7 +5411,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 203,
-      "scraped_at": "2026-05-01T13:19:03.127Z"
+      "scraped_at": "2026-05-01T13:19:03.127Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-50 PU Eldiven",
@@ -4078,7 +5432,8 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 204,
-      "scraped_at": "2026-05-01T13:19:04.587Z"
+      "scraped_at": "2026-05-01T13:19:04.587Z",
+      "chemical_codes": []
     },
     {
       "name": "BEYBİ KORUN NORMAL",
@@ -4098,7 +5453,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 205,
-      "scraped_at": "2026-05-01T13:20:03.229Z"
+      "scraped_at": "2026-05-01T13:20:03.229Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "BEYBİ KORUN TIRTIKLI 45 CM",
@@ -4118,7 +5478,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 206,
-      "scraped_at": "2026-05-01T13:19:11.256Z"
+      "scraped_at": "2026-05-01T13:19:11.256Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "BEYBİ KORUN TIRTIKLI 60 CM",
@@ -4138,7 +5503,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 207,
-      "scraped_at": "2026-05-01T13:19:12.471Z"
+      "scraped_at": "2026-05-01T13:19:12.471Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "BEYBİ KORUN TURUNCU",
@@ -4158,7 +5528,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 208,
-      "scraped_at": "2026-05-01T13:20:03.572Z"
+      "scraped_at": "2026-05-01T13:20:03.572Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "BEYBİ USTA İŞ",
@@ -4178,7 +5553,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 209,
-      "scraped_at": "2026-05-01T13:20:04.998Z"
+      "scraped_at": "2026-05-01T13:20:04.998Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NaturaPD™ 240-050BS",
@@ -4198,7 +5578,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 210,
-      "scraped_at": "2026-05-01T13:20:53.250Z"
+      "scraped_at": "2026-05-01T13:20:53.250Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN NaturaPF™ 240-053BFT",
@@ -4218,7 +5603,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 211,
-      "scraped_at": "2026-05-01T13:20:53.608Z"
+      "scraped_at": "2026-05-01T13:20:53.608Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN Neo Classic™ AS 041-R18",
@@ -4238,7 +5628,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 212,
-      "scraped_at": "2026-05-01T13:21:02.212Z"
+      "scraped_at": "2026-05-01T13:21:02.212Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "STARLİNE H1-45 KAUÇUK ELDİVEN",
@@ -4258,7 +5653,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 213,
-      "scraped_at": "2026-05-01T13:19:22.561Z"
+      "scraped_at": "2026-05-01T13:19:22.561Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "STARLİNE H1-60 KAUÇUK ELDİVEN",
@@ -4278,7 +5678,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 214,
-      "scraped_at": "2026-05-01T13:19:23.718Z"
+      "scraped_at": "2026-05-01T13:19:23.718Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "STARLİNE H2-45 KAUÇUK ELDİVEN",
@@ -4298,7 +5703,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 215,
-      "scraped_at": "2026-05-01T13:19:24.897Z"
+      "scraped_at": "2026-05-01T13:19:24.897Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "STARLİNE H2-60 KAUÇUK ELDİVEN",
@@ -4318,7 +5728,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 216,
-      "scraped_at": "2026-05-01T13:19:26.013Z"
+      "scraped_at": "2026-05-01T13:19:26.013Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "STARLİNE 636550 ISI ELDİVENİ",
@@ -4338,7 +5753,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 217,
-      "scraped_at": "2026-05-01T13:19:28.978Z"
+      "scraped_at": "2026-05-01T13:19:28.978Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE C2AGP-18TK",
@@ -4358,7 +5774,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 218,
-      "scraped_at": "2026-05-01T13:19:30.043Z"
+      "scraped_at": "2026-05-01T13:19:30.043Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE DRIVER-X Deri Eldiven",
@@ -4378,7 +5795,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 219,
-      "scraped_at": "2026-05-01T13:19:31.196Z"
+      "scraped_at": "2026-05-01T13:19:31.196Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-001-OR Deri Eldiven",
@@ -4398,7 +5816,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 220,
-      "scraped_at": "2026-05-01T13:19:32.257Z"
+      "scraped_at": "2026-05-01T13:19:32.257Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-021-SR Takviyeli Deri Eldiven",
@@ -4418,7 +5837,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 221,
-      "scraped_at": "2026-05-01T13:19:33.299Z"
+      "scraped_at": "2026-05-01T13:19:33.299Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-026-MV Deri Eldiven",
@@ -4438,7 +5858,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 222,
-      "scraped_at": "2026-05-01T13:19:34.384Z"
+      "scraped_at": "2026-05-01T13:19:34.384Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-041-YS Takviyeli Deri Eldiven",
@@ -4458,7 +5879,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 223,
-      "scraped_at": "2026-05-01T13:19:35.424Z"
+      "scraped_at": "2026-05-01T13:19:35.424Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-051-BY Takviyeli Deri Eldiven",
@@ -4478,7 +5900,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 224,
-      "scraped_at": "2026-05-01T13:19:36.661Z"
+      "scraped_at": "2026-05-01T13:19:36.661Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-051-YS Takviyeli Deri Eldiven",
@@ -4498,7 +5921,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 225,
-      "scraped_at": "2026-05-01T13:19:37.780Z"
+      "scraped_at": "2026-05-01T13:19:37.780Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-061",
@@ -4518,7 +5942,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 226,
-      "scraped_at": "2026-05-01T13:19:39.115Z"
+      "scraped_at": "2026-05-01T13:19:39.115Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-071",
@@ -4538,7 +5963,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 227,
-      "scraped_at": "2026-05-01T13:19:40.299Z"
+      "scraped_at": "2026-05-01T13:19:40.299Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-072",
@@ -4558,7 +5984,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 228,
-      "scraped_at": "2026-05-01T13:19:41.314Z"
+      "scraped_at": "2026-05-01T13:19:41.314Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-073",
@@ -4578,7 +6005,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 229,
-      "scraped_at": "2026-05-01T13:19:42.417Z"
+      "scraped_at": "2026-05-01T13:19:42.417Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-074",
@@ -4598,7 +6026,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 230,
-      "scraped_at": "2026-05-01T13:19:43.555Z"
+      "scraped_at": "2026-05-01T13:19:43.555Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-101 ARGON KAYNAK ELDİVENİ",
@@ -4618,7 +6047,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 231,
-      "scraped_at": "2026-05-01T13:19:44.626Z"
+      "scraped_at": "2026-05-01T13:19:44.626Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-102 ARGON KAYNAK ELDİVENİ",
@@ -4638,7 +6068,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 232,
-      "scraped_at": "2026-05-01T13:19:45.698Z"
+      "scraped_at": "2026-05-01T13:19:45.698Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-110192C-SR Deri Eldiven",
@@ -4658,7 +6089,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 233,
-      "scraped_at": "2026-05-01T13:19:46.800Z"
+      "scraped_at": "2026-05-01T13:19:46.800Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-1203 Deri Eldiven",
@@ -4678,7 +6110,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 234,
-      "scraped_at": "2026-05-01T13:19:47.915Z"
+      "scraped_at": "2026-05-01T13:19:47.915Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-1303",
@@ -4698,7 +6131,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 235,
-      "scraped_at": "2026-05-01T13:19:48.974Z"
+      "scraped_at": "2026-05-01T13:19:48.974Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-1304",
@@ -4718,7 +6152,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 236,
-      "scraped_at": "2026-05-01T13:19:50.107Z"
+      "scraped_at": "2026-05-01T13:19:50.107Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-1306",
@@ -4738,7 +6173,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 237,
-      "scraped_at": "2026-05-01T13:19:51.241Z"
+      "scraped_at": "2026-05-01T13:19:51.241Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-1307",
@@ -4758,7 +6194,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 238,
-      "scraped_at": "2026-05-01T13:19:52.451Z"
+      "scraped_at": "2026-05-01T13:19:52.451Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-1309",
@@ -4778,7 +6215,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 239,
-      "scraped_at": "2026-05-01T13:19:53.525Z"
+      "scraped_at": "2026-05-01T13:19:53.525Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-1310",
@@ -4798,7 +6236,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 240,
-      "scraped_at": "2026-05-01T13:19:54.575Z"
+      "scraped_at": "2026-05-01T13:19:54.575Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-170418C-GR",
@@ -4818,7 +6257,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 241,
-      "scraped_at": "2026-05-01T13:19:55.784Z"
+      "scraped_at": "2026-05-01T13:19:55.784Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-170418C-KR",
@@ -4838,7 +6278,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 242,
-      "scraped_at": "2026-05-01T13:19:56.909Z"
+      "scraped_at": "2026-05-01T13:19:56.909Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-170418C-SY",
@@ -4858,7 +6299,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 243,
-      "scraped_at": "2026-05-01T13:19:57.988Z"
+      "scraped_at": "2026-05-01T13:19:57.988Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE S1TK-08",
@@ -4878,7 +6320,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 244,
-      "scraped_at": "2026-05-01T13:19:59.093Z"
+      "scraped_at": "2026-05-01T13:19:59.093Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE S1TK-18",
@@ -4898,7 +6341,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 245,
-      "scraped_at": "2026-05-01T13:20:00.204Z"
+      "scraped_at": "2026-05-01T13:20:00.204Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE S2TKTKA/15",
@@ -4918,7 +6362,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 246,
-      "scraped_at": "2026-05-01T13:20:01.301Z"
+      "scraped_at": "2026-05-01T13:20:01.301Z",
+      "chemical_codes": []
     },
     {
       "name": "BEYBİ MAVİ NİTRİL MUAYENE ELDİVENİ PUDRASIZ",
@@ -4938,7 +6383,16 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 247,
-      "scraped_at": "2026-05-01T13:20:22.865Z"
+      "scraped_at": "2026-05-01T13:20:22.865Z",
+      "chemical_codes": [
+        "B",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ]
     },
     {
       "name": "STARLİNE STL-45",
@@ -4958,7 +6412,8 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 248,
-      "scraped_at": "2026-05-01T13:20:13.993Z"
+      "scraped_at": "2026-05-01T13:20:13.993Z",
+      "chemical_codes": []
     },
     {
       "name": "BEYBİ EKONOMİK",
@@ -4978,7 +6433,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 249,
-      "scraped_at": "2026-05-01T13:20:20.079Z"
+      "scraped_at": "2026-05-01T13:20:20.079Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "BEYBİ KARMELİTA",
@@ -4998,7 +6458,8 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 250,
-      "scraped_at": "2026-05-01T13:20:20.419Z"
+      "scraped_at": "2026-05-01T13:20:20.419Z",
+      "chemical_codes": []
     },
     {
       "name": "BEYBİ LATEX MUAYENE ELDİVENİ PUDRALI",
@@ -5018,7 +6479,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 251,
-      "scraped_at": "2026-05-01T13:20:21.456Z"
+      "scraped_at": "2026-05-01T13:20:21.456Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "BEYBİ LATEX MUAYENE ELDİVENİ PUDRALI",
@@ -5038,7 +6504,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 252,
-      "scraped_at": "2026-05-01T13:20:22.520Z"
+      "scraped_at": "2026-05-01T13:20:22.520Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "BEYBİ PET",
@@ -5058,7 +6529,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 253,
-      "scraped_at": "2026-05-01T13:20:24.022Z"
+      "scraped_at": "2026-05-01T13:20:24.022Z",
+      "chemical_codes": []
     },
     {
       "name": "BEYBİ VİNİL MUAYENE ELDİVENİ PUDRASIZ",
@@ -5078,7 +6550,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 254,
-      "scraped_at": "2026-05-01T13:20:25.138Z"
+      "scraped_at": "2026-05-01T13:20:25.138Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Classic™ 001-P11",
@@ -5098,7 +6571,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 255,
-      "scraped_at": "2026-05-01T13:20:59.695Z"
+      "scraped_at": "2026-05-01T13:20:59.695Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Classic™ AS 001-P11",
@@ -5118,7 +6592,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 256,
-      "scraped_at": "2026-05-01T13:21:01.512Z"
+      "scraped_at": "2026-05-01T13:21:01.512Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Prisma Ultre™ AS 003-P11",
@@ -5138,7 +6613,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 257,
-      "scraped_at": "2026-05-01T13:21:13.897Z"
+      "scraped_at": "2026-05-01T13:21:13.897Z",
+      "chemical_codes": []
     },
     {
       "name": "LINEPRO ELEKTRİKÇİ ELDİVENİ",
@@ -5158,7 +6634,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 258,
-      "scraped_at": "2026-05-01T13:20:36.891Z"
+      "scraped_at": "2026-05-01T13:20:36.891Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "PROTEC / METAL ÖRGÜ ELDİVEN",
@@ -5178,7 +6659,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 259,
-      "scraped_at": "2026-05-01T13:20:38.730Z"
+      "scraped_at": "2026-05-01T13:20:38.730Z",
+      "chemical_codes": []
     },
     {
       "name": "PROTEC 15 / METAL ÖRGÜ ELDİVEN",
@@ -5198,7 +6680,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 260,
-      "scraped_at": "2026-05-01T13:20:40.095Z"
+      "scraped_at": "2026-05-01T13:20:40.095Z",
+      "chemical_codes": []
     },
     {
       "name": "STARLİNE E-45-KS Dalgalı Lateks",
@@ -5218,7 +6701,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 261,
-      "scraped_at": "2026-05-01T13:20:41.801Z"
+      "scraped_at": "2026-05-01T13:20:41.801Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "STARLİNE E-54 Lateks Eldiven",
@@ -5238,7 +6726,12 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 262,
-      "scraped_at": "2026-05-01T13:20:44.039Z"
+      "scraped_at": "2026-05-01T13:20:44.039Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "STARLİNE STL-1080 NİTRİL SOĞUK İŞ ELDİVENİ",
@@ -5258,7 +6751,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 263,
-      "scraped_at": "2026-05-01T13:20:46.083Z"
+      "scraped_at": "2026-05-01T13:20:46.083Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "STARLİNE STL-1090 NİTRİL SOĞUK İŞ ELDİVENİ",
@@ -5278,7 +6776,12 @@
       "is_waterproof": false,
       "is_food_safe": true,
       "id": 264,
-      "scraped_at": "2026-05-01T13:20:48.070Z"
+      "scraped_at": "2026-05-01T13:20:48.070Z",
+      "chemical_codes": [
+        "K",
+        "N",
+        "O"
+      ]
     },
     {
       "name": "LALAN Neo Lite 087-P11",
@@ -5298,7 +6801,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 265,
-      "scraped_at": "2026-05-01T13:21:07.372Z"
+      "scraped_at": "2026-05-01T13:21:07.372Z",
+      "chemical_codes": []
     },
     {
       "name": "LALAN Neo Lite Ultra 003-P11",
@@ -5318,7 +6822,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 266,
-      "scraped_at": "2026-05-01T13:21:09.657Z"
+      "scraped_at": "2026-05-01T13:21:09.657Z",
+      "chemical_codes": []
     },
     {
       "name": "PROKOTEK HCD-16",
@@ -5338,7 +6843,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 267,
-      "scraped_at": "2026-05-01T13:21:18.345Z"
+      "scraped_at": "2026-05-01T13:21:18.345Z",
+      "chemical_codes": []
     },
     {
       "name": "PROKOTEK PRT-12 TEK KULLANIMLIK NİTRİL",
@@ -5358,7 +6864,8 @@
       "is_waterproof": false,
       "is_food_safe": false,
       "id": 268,
-      "scraped_at": "2026-05-01T13:21:20.899Z"
+      "scraped_at": "2026-05-01T13:21:20.899Z",
+      "chemical_codes": []
     }
   ],
   "scrape_log": [
