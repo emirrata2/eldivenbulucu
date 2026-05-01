@@ -14,9 +14,9 @@ app.use("/api/gloves", glovesRouter);
 
 app.get("/api/status", (req, res) => {
   const db = require("./db/database");
-  const count = db.prepare("SELECT COUNT(*) as count FROM gloves").get().count;
-  const last = db.prepare("SELECT * FROM scrape_log ORDER BY id DESC LIMIT 1").get();
-  res.json({ total_gloves: count, last_scrape: last || null });
+  const gloves = db.getAll();
+  const last = db.getLastScrapeLog();
+  res.json({ total_gloves: gloves.length, last_scrape: last || null });
 });
 
 // Her gece 02:00'de scraping
