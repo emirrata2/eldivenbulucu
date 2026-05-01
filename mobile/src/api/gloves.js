@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://192.168.1.113:3001/api";
+const API_URL = "https://eldivenbulucu.onrender.com/api";
 
 export async function fetchGloves(params = {}) {
   const res = await axios.get(`${API_URL}/gloves`, { params });
